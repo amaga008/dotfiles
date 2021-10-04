@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alexandremagalhaes99@gmail.com
+	name = Alexandre Magalhaes
